@@ -25,7 +25,7 @@ if __name__ == "__main__":
                     o preenchimento do formulário para registro da rede de atendimento das crianças e adolescentes do Município de Joaíma.</p>''')
         
         col1, col2, col3 = st.columns(3)
-        col2.image("logo.jpg")
+        col2.image("logo.JPG")
 
 
         with st.form("meu_questionario", clear_on_submit=True):
